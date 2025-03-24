@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Bathula Ganesh and I'm a Full-Stack Developer from India.</h1>
-<h1 align="center">check out my portfolio : <a href="https://bathulaganesh1234.github.io/Portfolio/"><u>My Portfolio</u></a></h1>h1>
+<h1 align="center">check out my portfolio : <a href="https://bathulaganesh1234.github.io/Portfolio/"><u>My Portfolio</u></a></h1>
 
 ---
 
